@@ -44,11 +44,6 @@ Here are some ideas to get you started:
   </div>
   <br>
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282333;">📋 Stat 📋</h2>
-</div>
-
-<div align="center">
-
 [![nanakyeong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanakyeong&layout=compact&theme=radical&cache_bust=1)](https://github.com/anuraghazra/github-readme-stats)
 
 [![nanakyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanakyeong&show_icons=true&theme=radical&cache_bust=1)](https://github.com/anuraghazra/github-readme-stats)
