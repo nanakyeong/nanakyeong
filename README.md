@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </div>
   <br>
 
-[![nanakyeong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanakyeong&layout=compact&theme=radical&cache_bust=1)](https://github.com/anuraghazra/github-readme-stats)
+[![nanakyeong's Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?)username=nanakyeong&layout=compact&theme=radical&cache_bust=1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![nanakyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanakyeong&show_icons=true&theme=radical&cache_bust=1)](https://github.com/anuraghazra/github-readme-stats)
+[![nanakyeong's GitHub stats]([https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?)username=nanakyeong&show_icons=true&theme=radical&cache_bust=1)](https://github.com/anuraghazra/github-readme-stats)
 </div>
