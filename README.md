@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=nanakyeong github%20render&fontSize=90)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20Profile&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요!;제+프로필에+오신+것을+환영합니다)](https://git.io/typing-svg)
