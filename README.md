@@ -1,4 +1,4 @@
-## 안녕하세요 백엔드 개발자 이나경입니다. 👋
+##
 
 <!--
 **nanakyeong/nanakyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![nanakyeong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanakyeong&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![nanakyeong's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nanakyeong&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![nanakyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanakyeong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
