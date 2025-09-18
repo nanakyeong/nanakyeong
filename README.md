@@ -43,6 +43,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanakyeong)](https://github.com/nanakyeong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanakyeong)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanakeyong)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
