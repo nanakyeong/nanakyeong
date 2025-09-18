@@ -25,9 +25,6 @@ Here are some ideas to get you started:
           </div><br>
     <div align= "center">  </div> 
     <h2 align="center">📧 Email 📧</h2>
-<p align="center">
-  <Strong> 자 신 의 이 메 일 아 이 디 </Strong>
-</p><br>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
