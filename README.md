@@ -19,10 +19,16 @@ Here are some ideas to get you started:
       <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=nanakyeong's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="nanakyeong's GitHub">
     </div>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
-    <div align= "center"> <a href=https://velog.io/@nanakyeong/posts> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=[[https://티 스 토 리 주 소](https://velog.io/@nanakyeong/posts)](https://velog.io/@nanakyeong/posts)"> </a>
-         <a href=mailto:메 일 주 소> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dlskrud468@naver.com"> </a>
-          </div><br>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
+ <div align="center">
+   <a href="https://velog.io/@nanakyeong/posts">
+     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white" alt="Velog Badge"/>
+   </a>
+   <a href="mailto:gamenulee12345@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+   </a>
+ </div>
+ <br>
     <div align= "center">  </div> 
     <h2 align="center">📧 Email 📧</h2>
 <div align= "center">
